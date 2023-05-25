@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Comic Sans', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+
+.title {
+    text-align: center;
+    margin: 40px;
+    color: #E53170;
+}
+
+p {
+    text-align: center;
+}
+
+.container_general {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.container_allcard {
+    clear:
+}
